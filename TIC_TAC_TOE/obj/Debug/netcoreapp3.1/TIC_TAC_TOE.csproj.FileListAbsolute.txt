@@ -1,0 +1,14 @@
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\netcoreapp3.1\TIC_TAC_TOE.exe
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\netcoreapp3.1\TIC_TAC_TOE.deps.json
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\netcoreapp3.1\TIC_TAC_TOE.runtimeconfig.json
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\netcoreapp3.1\TIC_TAC_TOE.runtimeconfig.dev.json
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\netcoreapp3.1\TIC_TAC_TOE.dll
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\bin\Debug\netcoreapp3.1\TIC_TAC_TOE.pdb
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.csproj.AssemblyReference.cache
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.AssemblyInfoInputs.cache
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.AssemblyInfo.cs
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.csproj.CoreCompileInputs.cache
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.dll
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.pdb
+C:\Users\sumit\source\repos\92 batch\TIC_TAC_TOE\TIC_TAC_TOE\obj\Debug\netcoreapp3.1\TIC_TAC_TOE.genruntimeconfig.cache
